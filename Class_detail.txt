@@ -1,0 +1,11 @@
+Language Components
+•	Resources
+•	Data Sources
+•	Terraform Providers - AWS, Microsoft Azure, Google Cloud, On-premise
+•	Modules
+•	Input and output variables
+•	Complex variable types
+•	Locals
+•	Validation rules
+•	Interpolation
+•	Expressions
